@@ -10,3 +10,5 @@ This line is added after second commit on 'master' branch and on 'new' branch.
 This is the line after first commit on 'new' branch.
 
 This line is added after merging and deleting 'new' branch.
+
+This line is added for first commit on master branch.
