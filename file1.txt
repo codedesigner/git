@@ -2,3 +2,5 @@ Hi
 This is a test content.
 
 This is line is added after initial commit.
+
+This line is added after second commit and on new branch.
