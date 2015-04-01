@@ -3,4 +3,6 @@ This is a test content.
 
 This is line is added after initial commit.
 
-This line is added after second commit and on new branch.
+This line is added after second commit on 'master' branch and on 'new' branch.
+
+This is the line after first commit on 'new' branch.
